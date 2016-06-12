@@ -1,0 +1,11 @@
+/*
+Theme Name:     Bliss
+Theme URI:      http://www.bluth.is/wordpress/bliss/
+Description:    Child theme for Bliss
+Author:         Bluthemes
+Author URI:		http://bluthemes.com
+Template:       bliss                             
+Version:        0.1.0
+*/
+
+@import url("../bliss/style.css");

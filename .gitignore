@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 *.log
 wp-config.php
 wp-content/advanced-cache.php
@@ -16,3 +17,10 @@ wp-content/plugins/hello.php
 /sitemap.xml
 /sitemap.xml.gz
 
+=======
+local-config.sample.php
+local-config.php
+/vendor/
+!/wp-content/plugins
+/wp-content/plugins/*
+>>>>>>> Stashed changes
